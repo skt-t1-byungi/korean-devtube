@@ -8,6 +8,9 @@
 - [남세](https://www.youtube.com/user/EchoNamSe/) - 회사문화, 진로, 일상
 - [노마드 코더](https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ) - javascript, python, react, react native, 웹, 진로, 일상
 - [동빈나](https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw) - c++, java, python, git, 컴퓨터기초, 컴퓨터과학, 기초, 알고리즘, 자료구조, 웹, 진로, 일상
+- [디모 DiMo [Coding & Science]](https://www.youtube.com/channel/UCVqKQvma-Cr-eQ4hgxETAFQ) - 흥미, 개발 트렌드, IT뉴스
+- [드림코딩 by 엘리](https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w) - javascript, 프론트엔드, 웹, html, css, 일상
+- [라라의 프로그래밍](https://www.youtube.com/channel/UCjWnBKjlXv550KDiBjtW8vQ) - 흥미, 컴퓨터기초
 - [레트로 retr0](https://www.youtube.com/channel/UCRWq4MPqifkmT2GyL2d2ZAQ) - c#, 유니티, 게임, 기초
 - [리베하얀](https://www.youtube.com/channel/UCq7-gOh15ChDcFJ9xN9SYmg) - html, css, scss, 웹퍼블리싱, UI/UX, 웹에이전시, 회사문화, 일상
 - [맠튜브](https://www.youtube.com/user/2woongjae) - typescript, javascript, vue, 프론트엔드
@@ -20,6 +23,8 @@
 - [우아한Tech](https://www.youtube.com/channel/UC-mOekGSesms0agFntnQang) - java, spring, 웹, 회사문화, 세미나
 - [윤인성](https://www.youtube.com/channel/UCJM7NRGBP9l5xOXU4XEU6UA/videos) - python, javascript, html, 도서소개
 - [이상한 나라의 신기한 개발자](https://www.youtube.com/channel/UC76R9DL1NjD7aLr_C3eueLA) - si, 회사문화, 진로
+- [작은개발자](https://www.youtube.com/channel/UCeenZhDWiyzeneiDrKtzZJA/) - 회사문화, 진로, 일상
+- [조코딩 JoCoding](https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg) - python, 안드로이드, 모바일, 흥미, 컴퓨터기초
 - [코딩의 신 아샬](https://www.youtube.com/channel/UCLLncfeIYljE0o_yUw7MkcA) - java, 도서소개, 회사문화, 진로, 일상
 - [포프TV](https://www.youtube.com/channel/UC63J0Q5huHSlbNT3KxvAaHQ) - c++, c#, 그래픽, 게임, 진로, 일상
 - [케빈 TV](https://www.youtube.com/channel/UCsOJxLxzQl8IbwGS-Cp5t8w) - scalar, java, 호주, 회사문화, 일상
@@ -34,17 +39,16 @@
 - [SKplanet Tacademy](https://www.youtube.com/channel/UCtV98yyffjUORQRGTuLHomw) - java, javascript, sql, aws, 도커, 쿠버네티스, 딥러닝, 빅데이터, 웹
 - [Team Jupeter](https://www.youtube.com/channel/UCxnsWjMKyb6px5lDiqInDHA) - elixir, rust, javascript, rxjs, 컴퓨터기초, 컴퓨터과학, 머신러닝
 - [Tucker 의 GoLang 프로그래밍](https://www.youtube.com/channel/UCZp_ftx6UB_32VfVmlS3o_A) - go, 게임, 네트워크, 알고리즘, 기초
+- [Unity Korea](https://www.youtube.com/channel/UCQArZVLg7Omzg4cBReJTS3w) - 유니티, 게임, c#
 - [VisualAcademy](https://www.youtube.com/user/visualacademy) - c#, .net, asp, Visual Studio, Azure, angular
 - [XpressEngine](https://www.youtube.com/channel/UCmkz_6tNPIUeQKxh61s90mg) - 세미나, php, Xe, 라라벨, 오픈소스
 - [ZeroCho TV](https://www.youtube.com/channel/UCp-vBtwvBmDiGqjvLjChaJw) - javascript, nodejs, react, mobx, vue, git, 웹
 
 ### 앞으로 기대되는 채널
-
-- [라라의 프로그래밍](https://www.youtube.com/channel/UCjWnBKjlXv550KDiBjtW8vQ) - 흥미, 컴퓨터기초
 - [맹개발TV](https://www.youtube.com/user/myh013) - 블록체인, 일상
-- [작은개발자](https://www.youtube.com/channel/UCeenZhDWiyzeneiDrKtzZJA/) - 회사문화, 진로, 일상
 - [테크보이 워니](https://www.youtube.com/channel/UC0uDM1xZMNBAoW2xnzhAQ7g/) - python, 실리콘밸리, 회사문화, 진로, 일상
 - [Lyn TV](https://www.youtube.com/channel/UCi0AcmKGMkNyTC20b5aNkaQ) - 도서소개
+- [센치한 개발자](https://www.youtube.com/channel/UCvb9oqG4CtZ5H4m_NSD1GYA/) - java, swift, 안드로이드, 모바일
 
 ### 중단된(1년내 동영상 업로드가 없는) 채널
 - [두들낙서](https://www.youtube.com/channel/UCmGcqqKdIKnH_-oHnkoyshg/) - c, c++, 기초
